@@ -1,1 +1,38 @@
 = shell-scripting
+:toc:
+
+You have to be good on the command line. Do not move around your workspace like a grandad. Be able to automate things.
+
+== Scripting tips
+
+=== Unix Tools
+
+[cols="2", options="header"]
+
+|===
+| Command name | Use case
+|`grep`| Pattern matching. A classic. Go further than just piping to grep. Be aware of subcommands.
+|`sed`| Replacing words and lines and stuff. Printing only pattern matches.
+|`awk`| This is OP. Powerful for text processing, basically a swiss army knife for extracting, transformin gand analyzing text but *especially structured data like CSVs or logs*.
+|`cut`| Handy little slice and dice command line tool for text processing.
+|`tr`| Character level translator.
+|`xargs`| Command builder. Stud of a tool. Good for bulk operations.
+|`find`|
+|`sort`|
+|`uniq`| Filters repeated lines in text.
+|`tee`|
+|`trap`| Essentially a tool for lifecycle hooks.
+|===
+
+=== Use tmpfs
+
+Be able to utilize tmpfs, and clean up your resources.
+
+
+=== Know the metacharacters
+
+Know the metacharacters, what they do and how to use them.
+
+=== Know your runtime
+
+Know where your script is running. Classic mistake, lads make mistakes, and it relies on some binary that the OS they go run it on doesn't have that binary, now they're wondering what went wrong. Typically, this happens with alpine Linux.
