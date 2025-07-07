@@ -1,11 +1,15 @@
 = shell-scripting
 :toc:
 
-You have to be good on the command line. Do not move around your workspace like a grandad. Be able to automate things.
+You have to be able to automate things. Use your tools, not everything is worth thinking about, not everything is worth doing manually. Learning to use the shell, is one of the best things you can possibly do.
 
 == Scripting tips
 
-=== Unix Tools
+=== Know your CLI tools
+
+You have to be able to use your tools well. This means being able to use git, the aws cli - or whatever you are using. Be able to use it, don't be inflexible.
+
+==== Unix Tools
 
 [cols="2", options="header"]
 
