@@ -1,7 +1,6 @@
 = shell-scripting
 :toc:
 
-You have to be able to automate things. Use your tools, not everything is worth thinking about, not everything is worth doing manually. Learning to use the shell, is one of the best things you can possibly do.
 
 == Scripting tips
 
