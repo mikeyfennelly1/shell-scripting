@@ -6,7 +6,7 @@
 
 === Know your CLI tools
 
-You have to be able to use your tools well. This means being able to use git, the aws cli - or whatever you are using. Be able to use it, don't be inflexible.
+Be able yo use `git`, `aws` etc.
 
 ==== Unix Tools
 
