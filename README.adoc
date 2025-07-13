@@ -6,7 +6,7 @@
 
 === Know your CLI tools
 
-Be able yo use `git`, `aws` etc.
+Be able to use `git`, `aws` etc.
 
 ==== Unix Tools
 
